@@ -1,3 +1,12 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [HomeController.cs](./CS/Controllers/HomeController.cs) (VB: [HomeController.vb](./VB/Controllers/HomeController.vb))
+* [GridModel.cs](./CS/Models/GridModel.cs) (VB: [GridModel.vb](./VB/Models/GridModel.vb))
+* [CallbackPartial.cshtml](./CS/Views/Home/CallbackPartial.cshtml)
+* [GridPartial.cshtml](./CS/Views/Home/GridPartial.cshtml)
+* [Index.cshtml](./CS/Views/Home/Index.cshtml)
+<!-- default file list end -->
 # How to load MVC extensions using the CallbackPanel extension
 
 
