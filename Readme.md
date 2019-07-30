@@ -9,7 +9,7 @@
 <!-- default file list end -->
 # How to load MVC extensions using the CallbackPanel extension
 <!-- run online -->
-**[[Run Online]](https://codecentral.devexpress.com/e2927)**
+**[[Run Online]](https://codecentral.devexpress.com/e2927/)**
 <!-- run online end -->
 
 
